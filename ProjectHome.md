@@ -1,0 +1,1 @@
+speech to text is a window application built on dot net framework
